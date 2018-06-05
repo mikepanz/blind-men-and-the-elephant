@@ -37,35 +37,35 @@ h1 {
   width: 37.16%;
   top: 7%;
   left: 3.5%;
-  background-image: url("/img/1-2.png");
+  background-image: url("../img/1-2.png");
 }
 #ele2 {
   height: 50.64%;
   width: 48%;
   left: 43%;
   top: -8%;
-  background-image: url("/img/2-2.png");
+  background-image: url("../img/2-2.png");
 }
 #ele3 {
   height: 60.61%;
   width: 20.26%;
   top: 41.7%;
   left: -2.2%;
-  background-image: url("/img/3-2.png");
+  background-image: url("../img/3-2.png");
 }
 #ele4 {
   height: 59.16%;
   width: 67.17%;
   left: 20.5%;
   top: 50.8%;
-  background-image: url("/img/4-2.png");
+  background-image: url("../img/4-2.png");
 }
 #ele5 {
   height: 49.84%;
   width: 17.33%;
   top: 47.8%;
   left: 90.3%;
-  background-image: url("/img/5-2.png");
+  background-image: url("../img/5-2.png");
 }
 .clicked {
   border: none;
