@@ -12,7 +12,7 @@ $(document).ready(function(){
     $('.component').on("click", function(){
       
       var index = $(this).index()+1;
-      var url = "url('../img/" + index + "-1.png')"
+      var url = "url('img/" + index + "-1.png')"
       
       if(!$(this).hasClass("clicked")) {
         $(this).css("background-image", url);
