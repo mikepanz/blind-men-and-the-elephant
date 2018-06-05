@@ -21,7 +21,7 @@ $(document).ready(function(){
         console.log(i);
         if(i==5){
           setTimeout(function(){
-            $(".container").css("background-image", "url('../img/6.png')");
+            $(".container").css("background-image", "url('img/6.png')");
           }, 900);
         }
       }
